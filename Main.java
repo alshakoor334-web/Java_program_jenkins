@@ -12,5 +12,8 @@ public class Main {
         System.out.println("Hello");
         System.out.println("One more line added !!");
 
+        Student student = new Student();
+        student.sayHello();
+
     }
 }
